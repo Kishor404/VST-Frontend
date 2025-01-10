@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Login Example',
+      title: 'VST Maarketing',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: LoginPage(), // Use the LoginPage as the home screen
     );
